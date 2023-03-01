@@ -1,9 +1,10 @@
 fileFormatVersion: 2
-guid: 98998dcdc8b888d41b26ccc10f3c5249
+guid: 1e5038940417e674383d0bf1e5b52b16
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - spitPrefab: {fileID: 1653054185098470901, guid: a343578d1b3b0014f8486620f5a37236, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
